@@ -12,7 +12,9 @@ Requirements:
 
 2) Be interactive using JQuery or Javascript events (DOM manipulation using jquery)
 
-3) Must have fun
+3) Proper tabbing on your code
+
+4) Must have fun!!
 
 
 You will be presenting at the end of the day!
