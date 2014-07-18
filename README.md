@@ -10,7 +10,7 @@ Requirements:
 
 1) Style till your heart is content (background-color, position, divs, navbars, footers, etc.)
 
-2) Be interactive using JQuery or Javascript events (DOM manipulation using jquery)
+2) Be interactive using JQuery or Javascript events (DOM manipulation using jquery, click, show, hide, etc.)
 
 3) Proper tabbing on your code
 
