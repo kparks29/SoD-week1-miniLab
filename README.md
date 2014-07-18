@@ -8,14 +8,16 @@ Along the way, they may interact with the other main characters of the show: Pri
 
 Requirements:
 
-1) Style till your heart is content
-2) Be interactive with JQuery events
+1) Style till your heart is content (background-color, position, divs, navbars, footers, etc.)
+
+2) Be interactive using JQuery or Javascript events (DOM manipulation using jquery)
+
 3) Must have fun
 
 
-Pick who is presenting at the end of the day!
+You will be presenting at the end of the day!
 You will have 2 modules to work on this.
 
 
 
-PS. Jake really likes animations ;)
+PS. Jake really likes jquery and css animations ;)
